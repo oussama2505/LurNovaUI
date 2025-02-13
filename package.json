@@ -21,6 +21,7 @@
     "vite": "^6.1.0"
   },
   "dependencies": {
-    "lucide-svelte": "^0.475.0"
+    "lucide-svelte": "^0.475.0",
+    "postcss-nested": "^7.0.2"
   }
 }
